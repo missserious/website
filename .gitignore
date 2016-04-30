@@ -1,0 +1,5 @@
+# ignore everything in this folder
+    *.[idea]
+
+# ignore _site folder
+    *.[_site]
