@@ -1,0 +1,20 @@
+@font-face { font-family: 'Josefin Sans';
+    src: url('../fonts/josefin-sans/JosefinSans-Regular.ttf') format('truetype'); }
+
+html {
+    margin:0;
+    padding:0;
+    font: normal 100%/1.4 Georgia, serif;
+}
+
+body {
+    background-color:#000;
+    background-image: url("../img/bg.jpg");
+    background-position: center top;
+    font-family: "Josefin Sans",sans-serif;
+}
+
+.col-xs-12 {
+    color: white;
+    text-align: center;
+}
