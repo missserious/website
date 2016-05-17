@@ -1,9 +1,11 @@
-# website
-http://missserious.github.io/website/
+"Personal Websites"
+====================================
 
-# let server run with Jekyll
+let server run with Jekyll:
+-------------------
 jekyll serve --watch --baseurl ""
 
-# TODO:
-sort bootstrap/img and so on. -> include
-favicon
+TODO:
+----------------------------------
+* sort bootstrap/img and so on. -> include
+* favicon
