@@ -12,9 +12,23 @@ body {
     background-image: url("../img/bg.jpg");
     background-position: center top;
     font-family: "Josefin Sans",sans-serif;
+    color: white;
 }
 
 .col-xs-12 {
-    color: white;
     text-align: center;
+}
+
+.img {
+  position:absolute;
+  top: 0;
+  width:40%;
+}
+
+#person {
+  margin-left: 5%;
+}
+
+#planet {
+  margin-top: 21%;
 }
