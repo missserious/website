@@ -9,3 +9,4 @@ TODO:
 ----------------------------------
 * sort bootstrap/img and so on. -> include
 * favicon
+* Make a beautiful Mercartor Projektion
